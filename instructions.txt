@@ -1,0 +1,15 @@
+65 - React Redux Combine Reducers
+
+1. When you have more than one reducer functions
+
+The resone
+
+rootReducerFunction = redFun1+redFunc2+.....
+createStore(rootRedFunc,initialState,enhancerFunc)
+
+
+
+1. Adder/Subtracter Page1
+2. Multiplicator/Divider  Page2
+
+https://redux.js.org/api/combinereducers
