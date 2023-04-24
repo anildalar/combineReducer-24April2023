@@ -1,0 +1,1 @@
+export const intialState={ fname: "Anil",lname:"Dollor",value:99 }
